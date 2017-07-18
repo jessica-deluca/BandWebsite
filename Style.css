@@ -1,1 +1,14 @@
-﻿
+﻿body {
+    background-color:#6F8CFF;
+}
+
+#firstHeading {
+    color:#ffffff;
+    font-family: 'Bitter', serif;
+}
+
+.introText {
+    color:black;
+    font-family: 'Fresca', sans-serif;
+}
+
